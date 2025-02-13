@@ -14,7 +14,7 @@ All results are fully reproducible using Google Colab, ensuring accessibility wi
 
 ## **Reproducibility**  
 Run the complete analysis interactively in Google Colab:  
-▶️ **[Open in Google Colab](INSERT_COLAB_LINK_HERE)**  
+▶️ **[Open in Google Colab](https://colab.research.google.com/drive/1ZdAIjMSHMW7xY3LVIaEpo8HldXV3zg3l)**  
 
 ## **Key Features**  
 ✅ Small dataset with meaningful insights into cytotoxicity prediction  
