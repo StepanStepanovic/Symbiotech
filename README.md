@@ -8,8 +8,7 @@ All results are fully reproducible using Google Colab, ensuring accessibility wi
 
 ## **Contents**  
 📂 **data/** – Dataset used in the study  
-📂 **notebooks/** – Google Colab notebook for reproducing results and figures  
-📂 **scripts/** – Python scripts used in the analysis  
+📂 **notebook/** – Google Colab notebook for reproducing results  
 📜 **README.md** – Project description and usage instructions  
 
 ## **Reproducibility**  
